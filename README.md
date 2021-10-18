@@ -4,7 +4,8 @@ are crucial in increasing sales.  The features include item weight, item fat con
 The maximum retail price and the fat content in the product have a strong correlation with the product sales.  
 
 For the fat content, there is not a huge difference between the sales of the low-fat and normal goods.  
-![image](https://user-images.githubusercontent.com/87332869/137668455-e4aa2db6-d0b2-4451-860-ea00cba86d8d.png)
+![image](https://user-images.githubusercontent.com/87332869/137671462-eea0575a-e624-415c-8dc7-0cd0d813778e.png)
+
 
 
 
